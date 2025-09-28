@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Updater
 #
-# @author Ayus Irfang Filaras <ayus.sahabat@gmail.com>
+# @author Ayus Irfang Filaras <nandamaulanayusuf@gmail.com>
 # @since version v1.1-beta
 # @license MIT
 url=(
